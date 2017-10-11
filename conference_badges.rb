@@ -21,6 +21,6 @@ end
 end
 
 def printer
-  puts batch_badge_creator(attendees)
-  puts assign_rooms(speakers)
+  puts batch_badge_creator
+  puts assign_rooms
 end
